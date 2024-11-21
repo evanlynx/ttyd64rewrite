@@ -415,10 +415,11 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-It's good that we have[BR]
-Lakilester, otherwise we'd[BR]
-be in big trouble, right Mario?
+This place looks dangerous![BR]
+Good thing we've got a Lakitu[BR]
+on our side, right?
 [Wait][End]
 }

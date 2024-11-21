@@ -147,8 +147,8 @@
 #string $String_Settings_Start
 {
 [Style Right]
-Which setting do you want to[BR]
-change?
+Would you like to change[BR]
+your settings?
 [Yield][End]
 }
 
@@ -235,8 +235,12 @@ Very Hard[End]
 #string $Tattle_SettingsNPC
 {
 [Style Tattle][EnableCDownNext]
-Talk to him to change the game[BR]
-difficulty or the game music.
+That's the Settings Toad![BR]
+Apparently he can change...[BR]
+your, um... settings?
+[Wait][Next]
+Maybe you'd just better[BR]
+talk to him yourself.
 [Wait][End]
 }
 %/

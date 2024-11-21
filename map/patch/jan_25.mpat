@@ -530,10 +530,8 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle][EnableCDownNext]
-Wow there's a lot of rocks here![BR]
-It looks like they can be pushed.[BR]
-[Wait][Next]
-Try opening the way by pushing the[BR]
-rocks Mario.[BR]
+There's a bunch of rocks here![BR]
+You're strong enough to push[BR]
+them around, right?[BR]
 [Wait][End]
 }

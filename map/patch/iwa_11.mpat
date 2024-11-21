@@ -1781,9 +1781,9 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle][EnableCDownNext]
-Mario, seems like this[BR]
-area is plaged with moles.[BR]
+Looks like this place has a[BR]
+serious mole problem.[BR]
 [Wait][Next]
-Remember to be cautious.
+Watch where you step!
 [Wait][End]  
 }

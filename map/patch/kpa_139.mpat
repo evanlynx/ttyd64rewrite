@@ -1275,9 +1275,9 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle][EnableCDownNext]
-Does this castle have no end?[BR]
-Wow, how did they manage to build all[BR]
-of this under Peach's castle without[BR]
-anyone noticing?
+Bowser sure went all-out with this[BR]
+place. I wonder how they managed to[BR]
+build all this right under[BR]
+everyone's noses?
 [Wait][End]      
 }

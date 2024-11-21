@@ -1514,12 +1514,17 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle][EnableCDownNext]
-Uh? A secret passage below[BR]
-the Raven statue?[BR]
+Wow! Would you look at this place?[BR]
+It looks like some sort of temple,[BR]
+or maybe an ancient, secret tomb![BR]
 [Wait][Next]
-Wait, is this some kind of tomb?[BR]
+I wonder who built it, and why?[BR]
+What sorts of secrets do you think[BR]
+it holds?[BR]
 [Wait][Next]
-Mario I'm getting worried let's hurry[BR]
-to leave this place once and for all.[BR]
+... Although, the longer we're[BR]
+here, the more I'm getting an[BR]
+uneasy feeling.[BR]
+We should hurry up, yeah?
 [Wait][End]
 }

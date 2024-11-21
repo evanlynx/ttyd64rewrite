@@ -736,9 +736,8 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle][EnableCDownNext]
-Mario, think very well about the next[BR]
-pillar you are going to touch, we[BR]
-must make sure that they are all[BR]
-activated to complete this puzzle.
+Looks like these pillars are part of[BR]
+some kind of puzzle! You probably[BR]
+need them all in the right spot.
 [Wait][End]      
 }

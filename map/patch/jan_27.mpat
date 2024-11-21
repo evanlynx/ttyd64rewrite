@@ -108,10 +108,9 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle][EnableCDownNext]
-Wow, another entrance inside the[BR]
-big tree?[BR]
-[Wait][Next]
-Now I'm wondering how big this[BR]
-tree exactly is?![BR]
+I can't believe this tree[BR]
+goes even further up! How[BR]
+high do you think we are[BR]
+now, Mario?
 [Wait][End]      
 }

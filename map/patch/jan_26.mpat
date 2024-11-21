@@ -1414,17 +1414,13 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle][EnableCDownNext]
-There's a lot of ravens stuff[BR]
-around here.[BR]
+Looks like we've stumbled into[BR]
+some sort of... sacred site?[BR]
 [Wait][Next]
-Is this some kind of[BR]
-veneration area?[BR]
+To be honest, I don't know much[BR]
+about raven culture, so I'm[BR]
+drawing a total blank.[BR]
 [Wait][Next]
-Looks like there's a sign[BR]
-next to the big raven altar,[BR]
-we should read what it say.[BR]
-[Wait][Next]
-Maybe there's a tip about what[BR]
-we need to exactly do here.[BR]
+Let's just take a look around![BR]
 [Wait][End]
 }

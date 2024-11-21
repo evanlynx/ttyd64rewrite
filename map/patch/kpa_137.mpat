@@ -778,9 +778,12 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle][EnableCDownNext]
-How kind of Bowser that he would[BR]
-have ordered making a cemetery for[BR]
-his troops, the dead also need to[BR]
-rest you know?
+Is this some kind of graveyard?[BR]
+I wonder if Bowser built this just[BR]
+for the Boos? I guess it's sort of[BR]
+like their natural habitat.
+[Wait][Next]
+I better not end up haunted[BR]
+after all this.
 [Wait][End]      
 }

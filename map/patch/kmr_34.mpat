@@ -92,14 +92,16 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle][EnableCDownNext]
-Now that I think about it, it's good[BR]
-that you landed next to our home[BR]
-Mario.[BR]
+You know, you're pretty lucky,[BR]
+falling from the sky and landing right[BR]
+next to our village![BR]
 [Wait][Next]
-What would have happened if you had[BR]
-fallen in a place with no one around...[BR]
+It could've been a lot more dangerous[BR]
+if you'd landed out in the wilderness![BR]
+I'm glad we were able to help you[BR]
+when you needed it![BR]
 [Wait][Next]
-Anyways, the best of all is thanks[BR]
-to that, now we're good friends!
+Plus, now we're friends![BR]
+Some stuff just works out, huh?
 [Wait][End]
 }

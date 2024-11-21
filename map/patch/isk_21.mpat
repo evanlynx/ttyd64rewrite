@@ -638,9 +638,15 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle][EnableCDownNext]
-This room is full of quicksands,[BR]
-remember to avoid staying still[BR]
-if you don't want something bad[BR]
-to happen Mario!
+Watch out for quicksand, Mario![BR]
+I heard if it gets you, you[BR]
+should make sure to stay calm,[BR]
+and move very carefully![BR]
+[Wait][Next]
+Or... are you supposed to[BR]
+thrash around with all your[BR]
+might?[BR]
+[Wait][Next]
+Eh, I'm sure we'll be fine.
 [Wait][End]
 }

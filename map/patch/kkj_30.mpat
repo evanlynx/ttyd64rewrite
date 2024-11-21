@@ -150,8 +150,8 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle][EnableCDownNext]
-Mario, sometimes I really wonder how[BR]
-many secret rooms does this castle[BR]
-have?
+This castle has so many secret rooms[BR]
+and hidden passageways! Why do you[BR]
+think they were all built?
 [Wait][End]      
 }

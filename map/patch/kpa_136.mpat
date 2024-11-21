@@ -1277,8 +1277,8 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle][EnableCDownNext]
-What a mess was left after we[BR]
-turned off the lava machine, the[BR]
-floor smells funny, right?
+Some mess we made out of this place![BR]
+Now the floor smells...[BR]
+kinda funny.
 [Wait][End]      
 }

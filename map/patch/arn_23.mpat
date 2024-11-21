@@ -108,10 +108,15 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-Mario, here smells weird![BR]
-One of the reasons why[BR]
-I hate caves!
+Looks like a normal cave to me.[BR]
+Who knows what secrets we'll[BR]
+find down here?[BR]
+[Wait][Next]
+I think I might've stepped in[BR]
+something, actually.[BR]
+[Wave]Gross.[/fx]
 [Wait][End]
 }

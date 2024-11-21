@@ -588,13 +588,13 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle]
-[EnableCDownNext]Seems we finally did it![BR]
+[EnableCDownNext]Phew! Looks like we made it![BR]
 Now...[BR]
 [Wait][Next]
-Can we finally leave this[BR]
-place please Mario?
+Can we go? Please?
 [Wait][End]
 }
 

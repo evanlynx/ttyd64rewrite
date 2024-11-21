@@ -113,11 +113,11 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle][EnableCDownNext]
-Mario, I just wonder whose idea it[BR]
-was to put a secret room next to a[BR]
-cell?[BR]
+I wonder whose idea this room was![BR]
+Making a secret passageway right[BR]
+next to a cell seems kinda dumb.[BR]
 [Wait][Next]
-I duuno, they should fire that[BR]
-architect, just my opinion.
+I wonder if Bowser's fired the[BR]
+architect who built it yet.
 [Wait][End]      
 }

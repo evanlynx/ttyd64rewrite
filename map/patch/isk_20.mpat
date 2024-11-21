@@ -1028,11 +1028,12 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle][EnableCDownNext]
-Damn Mario, it seems that we[BR]
-entered a chamber full of traps,[BR]
-be careful![BR]
+Wow, look at this place![BR]
+It's completely full of tricks[BR]
+and traps! You better be extra[BR]
+careful here![BR]
 [Wait][Next]
-I wonder what lies at the end,[BR]
-I hope it's worth it.
+I wonder who built this place?[BR]
+Might be a hobby.
 [Wait][End]      
 }

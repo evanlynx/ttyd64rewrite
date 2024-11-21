@@ -1549,10 +1549,11 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-Wow, lots of roots![BR]
-I wonder from where they come[BR]
-from.
+Wow, look at all these roots![BR]
+They must come from a massive[BR]
+tree. Or maybe a whole forest!
 [Wait][End]
 }

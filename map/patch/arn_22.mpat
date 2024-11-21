@@ -266,13 +266,14 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-It seems like this is some kind[BR]
-of labyrinth Mario.[BR]
+Looks like some kind of maze,[BR]
+or... a labyrinth, or something.[BR]
 [Wait][Next]
-We need to keep our eyes open[BR]
-at all costs if we don't want[BR]
-to get lost!
+We better keep our eyes open![BR]
+I don't want to get stuck[BR]
+wandering this place forever!
 [Wait][End]
 }

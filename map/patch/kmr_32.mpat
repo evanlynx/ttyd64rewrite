@@ -364,18 +364,19 @@
 #string $String_Monty0_0
 {
 [Style Right]
-Hey Mario I have a challenge for[BR]
-you.[BR]
+Hey, hey! You're that Mario guy,[BR]
+ain'tcha?[BR]
 [Wait][Next]
-My friends and I have heads of[BR]
+My friends and I are the toughest[BR]
+moles around! We've got heads of[BR]
 steel![BR]
 [Wait][Next]
-How about if we play a little[BR]
-whack-a-mole?[BR]
+How about playing a game with us?[BR]
+Just a little whack-a-mole![BR]
 [Wait][Next]
-I'm sure you won't be able to get[BR]
-at least [SaveColor][Color:19]8000 points[RestoreColor], we're the[BR]
-fastest moles around here!
+How about this? If you can get over[BR]
+[SaveColor][Color:19]8000 points[RestoreColor], we'll[BR]
+give you something nice!
 [Wait][End]
 }
 
@@ -390,11 +391,11 @@ whack-a-mole with us?[BR]
 #string $String_Monty0_Badge
 {
 [Style Right]
-[SaveColor][Color:19][Var 0][RestoreColor]?! Wow, you are better than[BR]
-I expected![BR]
+[SaveColor][Color:19][Var 0][RestoreColor]?! Wow, you're pretty[BR]
+good at this![BR]
 [Wait][Next]
-Here, take this Mario, you[BR]
-deserve it!
+Here! Take this as a prize.[BR]
+You deserve it!
 [Wait][End]
 }
 
@@ -404,7 +405,7 @@ deserve it!
 [SaveColor][Color:19][Var 0][RestoreColor]? You got a new hi-score,[BR]
 nice job![BR]
 [Wait][Next]
-Hey, what do you think if we play[BR]
+Hey, how about playing[BR]
 one more game?
 [Wait][End]
 }
@@ -412,10 +413,10 @@ one more game?
 #string $String_Monty0_NoHighscore
 {
 [Style Right]
-You got a score of [SaveColor][Color:19][Var 0][RestoreColor], not[BR]
-bad Mario![BR]
+You got a score of [SaveColor][Color:19][Var 0][RestoreColor][BR]
+Not bad at all![BR]
 [Wait][Next]
-Hey, what do you think if we play[BR]
+Hey, how about playing[BR]
 one more game?
 [Wait][End]
 }
@@ -424,8 +425,8 @@ one more game?
 {
 [Style Choice pos=110,90 size=105,62]
 [StartChoice]
-[Option 0]Sure[BR]
-[Option 1]No thanks[BR]
+[Option 0]Sure![BR]
+[Option 1]No thanks![BR]
 [Option 2]Stats[BR]
 [EndChoice cancel=1][End]
 }
@@ -452,13 +453,14 @@ one more game?
 #string $Tattle_Monty
 {
 [Style Tattle][EnableCDownNext]
-This is a Monty Mole like no other,[BR]
-he must have a head of steel if he[BR]
-wants us to play with him, just like[BR]
-me.[BR]
+This is a friendly Monty Mole![BR]
+Him and his friends like to play[BR]
+whack-a-mole with visitors.[BR]
 [Wait][Next]
-That's why my headbonks are the[BR]
-strongest, right Mario?
+His head's almost as tough as mine![BR]
+Maybe even tougher.[BR]
+[Wait][Next]
+Guess I'd better keep training, huh?[BR]
 [Wait][End]
 }
 
@@ -471,12 +473,12 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle][EnableCDownNext]
-This is the lair of a couple of[BR]
-friendly Mounty Moles, I wish all our[BR]
-enemies were like that Mario,[BR]
-friendly.[BR]
+This cave is home to a gang of[BR]
+friendly Monty Moles. I used to[BR]
+come here sometimes to play with[BR]
+them![BR]
 [Wait][Next]
-We never do anything bad to anyone,[BR]
-you know what I mean?
+I was never that good, though...[BR]
+Maybe you'll have better luck!
 [Wait][End]      
 }

@@ -653,9 +653,9 @@ I really hope so.
 #string $String_Couple1_2_1
 {
 [Style Right]
-I love coming here, it is my[BR]
-favorite place to spend time[BR]
-with him! [Heart]
+This is one of my favorite spots[BR]
+to get together with my darling![BR]
+So romantic! [Heart]
 [Wait][End]
 }
 
@@ -670,30 +670,31 @@ love!
 #string $String_Couple3_1_1
 {
 [Style Right]
-Hey Mario! Can you give us a[BR]
-little privacy please?![BR]
+Um... excuse me, could we[BR]
+get a little privacy?[BR]
 [Wait][End]
 }
 
 #string $String_Couple4_1_1
 {
 [Style Right]
-Hey Mario, haven't you thought[BR]
-about throwing some coins in the[BR]
-wishing fountain?
+Have you ever tried throwing[BR]
+coins into a fountain, and[BR]
+making a wish?
 [Wait][End]
 }
 
 #string $String_Couple4_2_1
 {
 [Style Right]
-If you want to try your luck[BR]
-just go to that little pedestal[BR]
+If you're feeling whimsical,[BR]
+you could stand on the pedastal[BR]
 and try throwing a few coins.[BR]
 [Wait][Next]
-Remember that the more you[BR]
-throw, the more likely good[BR]
-things will happen to you.
+The more coins you throw,[BR]
+the better your luck will be![BR]
+I think that's how it works,[BR]
+anyway.
 [Wait][End]
 }
 
@@ -703,12 +704,12 @@ things will happen to you.
 Hey, Mario, do you know what[BR]
 they say about this fountain?[BR]
 [Wait][Next]
-They say that the more money[BR]
-you throw, the mores chance good[BR]
-things will happen to you.[BR]
+Apparently it's magic![BR]
+Throw a few coins in, and[BR]
+fortune will come your way![BR]
 [Wait][Next]
-I'm not sure if that's completely[BR]
-true but who am I to ask?
+Sounds made-up to me, but[BR]
+I'm still tempted to try it.
 [Wait][End]
 }
 
@@ -730,27 +731,27 @@ I don't have enough coins...
 #string $Tattle_Couple
 {
 [Style Tattle]
-Just a couple having a[BR]
-good time together.[BR]
+This couple seems totally[BR]
+enamored with one another![BR]
 [Wait][Next]
-To be honest I don't find the[BR]
-big appeal of having a couple,[BR]
-I prefer adventures![BR]
+Apparently this place is a regular[BR]
+date spot for the locals.[BR]
+Pretty romantic, right?[BR]
 [Wait][Next]
-You know what I mean, right[BR]
-Mario?
+Kinda sappy, actually.[BR]
+Heh.
 [Wait][End]
 }
 
 #string $Tattle_Solo
 {
 [Style Tattle]
-This place is mostly known as a[BR]
-place to be with your loved ones[BR]
-but it's also good for having a[BR]
-good time alone you know?[BR]
+They look like they're having[BR]
+a pretty nice time on their own![BR]
 [Wait][Next]
-Nothing wrong with that.
+The single life just works[BR]
+better for some people,[BR]
+you know?
 [Wait][End]
 }
 
@@ -765,11 +766,11 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle]
-This is the wish fountain, you can[BR]
-try throwing coins into the[BR]
-fountain.[BR]
+Apparently this fountain can[BR]
+answer your wishes if you throw[BR]
+in some coins![BR]
 [Wait][Next]
-Maybe today is your lucky day[BR]
+Maybe today's your lucky day,[BR]
 Mario!
 [Wait][End]
 }

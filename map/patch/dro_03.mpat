@@ -656,37 +656,39 @@
 #string $String_Toad1_1
 {
 [Style Right]
-Hey, have you heard the rumors?[BR]
-They say there is a really deep[BR]
-pit in the sewers of Toad Town.[BR]
+I once heard a rumor about a[BR]
+secret place deep underground,[BR]
+full of dangerous monsters![BR]
 [Wait][Next]
-Nobody knows exactly how deep[BR]
-it is.[BR]
+It sounds horrible![BR]
 [Wait][Next]
-I wonder what will be on the[BR]
-deepest floor?
+But it makes you wonder, what[BR]
+sorts of treasure could be[BR]
+hidden at the bottom?
 [Wait][End]
 }
 
 #string $String_Toad2_1
 {
 [Style Right]
-Wait, I got you a better one.[BR]
+Wait, I got a better one.[BR]
 Have you heard about the newest[BR]
 video game console?[BR]
 [Wait][Next]
-A friend of mine from Star[BR]
-Summit already has one, we[BR]
-should go to play at his house[BR]
-one of these days.
+My friend who lives up near[BR]
+Star Summit got one early![BR]
+He says his uncle works at the[BR]
+company that makes them![BR]
+[Wait][Next]
+We should go play sometime!
 [Wait][End]
 }
 
 #string $String_Toad3_1
 {
 [Style Right]
-Hey, the weather has been[BR]
-pretty good lately, right?[BR]
+Ah, I love that warm sun![BR]
+Hot days really are the best.[BR]
 [Wait][Next]
 I love the heat, I really don't[BR]
 understand why a lot of people[BR]
@@ -699,7 +701,7 @@ prefer the cold to be honest.
 #string $String_Mouser1_1
 {
 [Style Right]
-Hey, welcome![BR]
+Hey, hey! Welcome![BR]
 [Wait][Next]
 I sell the hottest Hot Sauce,[BR]
 for only [SaveColor][Color:07]10 coins[RestoreColor].[BR]
@@ -710,7 +712,7 @@ Would you be interested?[BR]
 #string $String_Mouser1_2
 {
 [Style Right]
-Hey, welcome![BR]
+Welcome, welcome![BR]
 [Wait][Next]
 I sell the hottest Hot Sauce,[BR]
 for only [SaveColor][Color:07]10 coins[RestoreColor].[BR]
@@ -720,23 +722,17 @@ for only [SaveColor][Color:07]10 coins[RestoreColor].[BR]
 #string $String_Mouser_Error_Money
 {
 [Style Right]
-Although it seems like right now[BR]
-you don't have enough coins...[BR]
-[Wait][Next]
-I'm sorry, but please come back[BR]
-when you have enough coins.
+That won't be enough coins,[BR]
+unfortunately. No discounts![BR]
 [Wait][End]
 }
 
 #string $String_Mouser_Error_Space
 {
 [Style Right]
-Although it seems like right now[BR]
-you don't have enough space in[BR]
-your inventory...[BR]
-[Wait][Next]
-I'm sorry, but please come back[BR]
-when you have enough space.
+Unfortunately, you have nowhere[BR]
+to put it! Clear out some space[BR]
+and come back later!
 [Wait][End]
 }
 
@@ -747,7 +743,7 @@ Welcome![BR]
 I have delicious hot dogs![BR]
 [Wait][Next]
 You want one?[BR]
-It costs [SaveColor][Color:07]10 coins[RestoreColor] each.[BR]
+Only [SaveColor][Color:07]10 coins[RestoreColor] each![BR]
 [Yield][End]
 }
 
@@ -755,10 +751,10 @@ It costs [SaveColor][Color:07]10 coins[RestoreColor] each.[BR]
 {
 [Style Right]
 Welcome![BR]
-I have delicious hot dogs![BR]
+Hot dogs for sale![BR]
 [Wait][Next]
-You want one?[BR]
-It costs [SaveColor][Color:07]10 coins[RestoreColor] each.[BR]
+You want it? It's yours![BR]
+Only [SaveColor][Color:07]10 coins[RestoreColor]![BR]
 [Wait][End]
 }
 
@@ -774,18 +770,16 @@ mmmmm... richer!
 #string $String_Goomshu_Error_Space
 {
 [Style Right]
-Sorry Mario, but seems like right[BR]
-now you don't have enough space[BR]
-in your inventory...[BR]
+Sorry, but you don't have[BR]
+enough space in your inventory!
 [Wait][End]
 }
 
 #string $String_Mouser_Cancel
 {
 [Next]
-Oh too bad, I hope you change[BR]
-your mind, they are really worth[BR]
-it.
+That's too bad![BR]
+Maybe some other time.
 [Wait][End]
 }
 
@@ -802,25 +796,29 @@ Come back soon.
 #string $Tattle_Dryite
 {
 [Style Tattle]
-A citizen of Dry Dry Outpost,[BR]
-these people must love the heat,[BR]
-good for them because I can't[BR]
-stand this weather Mario...
+One of the locals here at[BR]
+Dry Dry Outpost. Hard to believe[BR]
+anyone's made a life for themselves[BR]
+in this boiling place![BR]
+[Wait][Next]
+They seem to be making the most[BR]
+of it, though.
 [Wait][End]
 }
 
 #string $Tattle_Goomshu
 {
 [Style Tattle]
-He is Goomshu, it seems that he[BR]
-is not from around here.[BR]
+That's Goomshu. He's a well-known[BR]
+merchant here in Dry Dry Outpost.[BR]
 [Wait][Next]
-I have heard that he comes from a[BR]
-far away land, his passion has[BR]
-always been selling.[BR]
+I heard he comes from a far away[BR]
+land, where he used to run a[BR]
+thriving business selling lamp oil,[BR]
+ropes, bombs, and other stuff.[BR]
 [Wait][Next]
-Especially when we talk about selling[BR]
-ropes or bombs.
+I wonder what caused him to pick up[BR]
+and move all the way out here?
 [Wait][End]
 }
 
@@ -833,12 +831,14 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-Dry Dry Outpost's shopping area,[BR]
-you can talk to the blue Mauser to[BR]
-buy Hot Sauces.[BR]
+This is a bazaar, where all sorts of[BR]
+merchants get together to peddle[BR]
+their goods.[BR]
 [Wait][Next]
-Or hot dogs with Goomshu.
-[Wait][End]    
+That guy selling hot dogs seems[BR]
+out of place, don't you think?
+[Wait][End]
 }

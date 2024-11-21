@@ -753,10 +753,11 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-Wow, this house looks pretty[BR]
-abandoned, it even has a hole[BR]
-in the roof, I wonder who owns it?
+This place looks completely[BR]
+abandoned. I wonder who used to[BR]
+live here, and why they left?
 [Wait][End]
 }
