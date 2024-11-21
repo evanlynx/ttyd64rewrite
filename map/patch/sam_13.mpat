@@ -674,9 +674,10 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-Be careful where you step Mario,[BR]
-those pillars are very slippery!
-[Wait][End]      
+Those pillars look pretty slippery![BR]
+Watch your step!
+[Wait][End]
 }

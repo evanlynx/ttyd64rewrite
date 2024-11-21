@@ -1486,12 +1486,15 @@ RESERVED
 
 #string $String_Tattle {
 [Style Tattle]
-[EnableCDownNext]Look, I'm sick of this forest, all[BR]
-right? Let's get out of here.[BR]
+[EnableCDownNext]Um... Mario, did we take[BR]
+a wrong turn, or something?[BR]
+I don't think this is the right[BR]
+way...[BR]
 [Wait][Next]
-I don't care how many important[BR]
-things are hidden in this forest,[BR]
-I can't spend another instant in[BR]
-the freaky place![BR]
+Ugh... the longer we stay here,[BR]
+the colder it seems to get.[BR]
+At least we know the way out.[BR]
+[Wait][Next]
+... Right, Mario?[BR]
 [Wait][End]      
 }

@@ -345,12 +345,14 @@
     RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle]
-[EnableCDownNext]Wow, this mansion is filled with a[BR]
-bunch of secret passages.[BR]
+[EnableCDownNext]Creepy, a hidden passage. It's so[BR]
+dark and dusty...[BR]
 [Wait][Next]
-I hope there's at least something[BR]
-good around here Mario.[BR]
+They've got to be hiding something[BR]
+important in here! Let's do some[BR]
+digging and see what we can find!
 [Wait][End]
 }

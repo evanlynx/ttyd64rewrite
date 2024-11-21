@@ -97,7 +97,8 @@ RESERVED
 #string $MapTattle
 {
 [Style Tattle]
-[EnableCDownNext]Uh, this looks like some kind of[BR]
-warehouse.
+[EnableCDownNext]This looks like some sort of[BR]
+warehouse. I guess even the[BR]
+Koopa Bros. need storage space.
 [Wait][End]
 }

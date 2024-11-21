@@ -1539,10 +1539,13 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-Is this some kind of factory?[BR]
-I wonder what they make, I hope[BR]
-at least something really cool!
-[Wait][End]      
+I think this is some kind of factory.[BR]
+None of these machines look[BR]
+familiar to me, though.[BR]
+[Wait][Next]
+What do you think they made here?
+[Wait][End]
 }

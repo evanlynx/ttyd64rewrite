@@ -203,85 +203,94 @@
 #string $String_Goomba_Start
 {
 [Style Right]
-Hey what's up Mario, are you[BR]
-looking for a challenge?[BR]
+Hey! You're a new challenger,[BR]
+right? I haven't seen you around[BR]
+before.[BR]
 [Wait][Next]
-I'm sure you won't be able to[BR]
-beat us, along with my other[BR]
-buddies.[BR]
+How do you handle yourself in a[BR]
+fight? If you think you're tough,[BR]
+how about taking on me and my[BR]
+buddies?[BR]
 [Wait][Next]
-If you pass a round while[BR]
-fulfilling that round condition you[BR]
-will move to the next one.[BR]
+The rules are easy: take down[BR]
+your opponents while fulfilling[BR]
+a special condition! If you do it,[BR]
+you go to the next round.[BR]
 [Wait][Next]
-It won't be easy, do you accept?[BR]
+Sound easy? How about you give[BR]
+it your best shot?
 [Yield][End]
 }
 
 #string $String_Goomba_Beated
 {
 [Style Right]
-Wow! It seems like you are really[BR]
-tough at end of the day![BR]
+Phew, you really are tough.[BR]
+That was a great fight![BR]
 [Wait][Next]
-That was fun, come back[BR]
-whenever you want if you want[BR]
-to fight a little more!
+If you ever want a rematch,[BR]
+just say the word![BR]
+We'll be ready for you!
 [Wait][End]
 }
 
 #string $String_Goomba_Reward
 {
 [Style Right]
-You know what?[BR]
+Here! To commemorate your[BR]
+big win, we've got a prize ready.[BR]
 [Wait][Next]
-Take this as a sign of our[BR]
-admiration.
+To the victor go the spoils.[BR]
+Go on, take it![BR]
 [Wait][End]
 }
 
 #string $String_Goomba_Yes
 {
 [Next]
-You better be ready, this is[BR]
-going to be fun.
+You've got no idea what you're[BR]
+in for. This is gonna be fun!
 [Wait][End]
 }
 
 #string $String_Goomba_No
 {
 [Next]
-Okay, maybe next time, we will be[BR]
-waiting.
+Alright, no shame in knowing your[BR]
+limits. If you ever feel bold,[BR]
+you know where to find us!
 [Wait][End]
 }
 
 #string $String_Goomba_NextBattle
 {
 [Style Right]
-Good job, but we still have some[BR]
-friends who have unfinished[BR]
-business with you, are you ready?
+Hey, not bad! We're not through[BR]
+with you yet, though. Time for the[BR]
+next round!
 [Wait][End]
 }
 
 #string $String_Goomba_FinalBattle
 {
 [Style Right]
-Well, this is the last fight, you[BR]
-better be prepared, good luck!
+Well, this is it. You made it all[BR]
+the way to the final round.[BR]
+[Wait][Next]
+Good luck, guy! You're gonna[BR]
+need it.
 [Wait][End]
 }
 
 #string $Tattle_Goomba
 {
 [Style Tattle]
-This group of Goombas is ready to[BR]
-fight against you in a multi-round[BR]
-combat along with more fighters.[BR]
+These Goombas seem like competitors[BR]
+in this fighting ring. They look[BR]
+pretty fierce to me...[BR]
 [Wait][Next]
-You should accept to fight when you[BR]
-know you are fully ready Mario.
+If you think you're ready, you[BR]
+should try taking them on![BR]
 [Wait][End]
 }
 
@@ -829,12 +838,15 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-Is this some kind of coliseum?[BR]
+Looks like some kind of secret[BR]
+fighting arena! I wonder if there's[BR]
+big prizes for the winners...[BR]
 [Wait][Next]
-Mario, obviously we are the[BR]
-strongest, I know you think the[BR]
-same, right?
-[Wait][End]      
+You can definitely take them, right?[BR]
+Come on! Let's show them what we're[BR]
+made of!
+[Wait][End]
 }

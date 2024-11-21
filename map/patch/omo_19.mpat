@@ -1941,10 +1941,14 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-I hate waiting for these platforms[BR]
-to be in position, I wonder if there's[BR]
-a way to make this faster, come on!
+Check out all these platforms...[BR]
+I wonder if there's a way to make[BR]
+them move faster![BR]
+[Wait][Next]
+Then again, Gooma always said I[BR]
+needed to practice being patient.
 [Wait][End]
 }

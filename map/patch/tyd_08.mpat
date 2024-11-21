@@ -590,11 +590,12 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
 Wow, this place looks really nice,[BR]
 I wonder who will live here?[BR]
 [Wait][Next]
 Looks like a palace!
-[Wait][End]      
+[Wait][End]
 }

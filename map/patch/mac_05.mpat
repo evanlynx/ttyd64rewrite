@@ -1002,12 +1002,12 @@
 #string $String_Bartender_HelpMe
 {
 [Style Right]
-[Color:24]Hey someone told me you helped[BR]
-Koopa Village with some problems[BR]
-with fuzzies.[BR]
+Well, aren't you that Mario fella?[BR]
+Heard you helped take care of a[BR]
+fuzzy problem over in Koopa[BR]
+Village.[BR]
 [Wait][Next]
-Look Mario, to be honest I need[BR]
-your help, but what if we talk[BR]
-more about this somewhere else?
+I might have a job for someone[BR]
+with your skills. Come with me.[BR]
 [Wait][End]
 }

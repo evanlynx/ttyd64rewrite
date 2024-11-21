@@ -639,10 +639,11 @@
     RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-Finally... the last floor of the[BR]
-pit, floor 100![BR]
+Finally... Mario, we made it![BR]
+We made it to the bottom![BR]
 [Wait][Next]
 But, there wasn't even a person[BR]
 down here, but a robot, maybe it was[BR]

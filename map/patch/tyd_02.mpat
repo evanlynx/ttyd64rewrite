@@ -4073,12 +4073,14 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-It seems that all the walls are full[BR]
-of tree branches, are we inside a[BR]
-giant tree or something?[BR]
+See all those tree branches?[BR]
+It's almost like we're inside we're[BR]
+inside some sort of giant tree.[BR]
 [Wait][Next]
-That would be so awesome!
-[Wait][End]      
+It sure isn't any tree I've seen,[BR]
+though. What a weird place.
+[Wait][End]
 }

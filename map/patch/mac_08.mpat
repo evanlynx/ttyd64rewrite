@@ -513,98 +513,101 @@
 #string $String_Bartender_GameOver
 {
 [Style Right]
-Well that didn't turn out as[BR]
-expected... they're too fast!
+Well, that didn't go right.[BR]
+Those things are just too fast!
 [Wait][End]
 }
 
 #string $String_Bartender_Beaten1
 {
 [Style Right]
-Good job, we have a box, let's go[BR]
-for the others ones.
+Great job! Seems like you've got[BR]
+the hang of it. Let's head back[BR]
+for the other boxes.
 [Wait][End]
 }
 
 #string $String_Bartender_Beaten2
 {
 [Style Right]
-Wow, thank you so much Mario,[BR]
-I really wouldn't know how I would[BR]
-have done it without you.[BR]
+That was some fine work, Mario.[BR]
+I never could have done this[BR]
+without your help.[BR]
 [Wait][Next]
-And looks like all those fuzzies[BR]
-actually left, thank you, you know[BR]
-what?[BR]
+Plus, you seem to have scared[BR]
+off the rest of the fuzzies![BR]
+You really are a lifesaver.[BR]
 [Wait][Next]
-Take this as a token of[BR]
-appreciation my friend.
+Here. It's not much, but I want[BR]
+you to have this.
 [Wait][End]
 }
 
 #string $String_Bartender_FirstTime1
 {
 [Style Right]
-Look Mario... I feel bad admitting[BR]
-this, but I have a Fuzzy problem,[BR]
-I really need someone's help![BR]
+Look, I'd like this kept quiet...[BR]
+but we've got a little bit of a[BR]
+fuzzy infestation.[BR]
 [Wait][Next]
-And I think you're the only one[BR]
-I can trust.[BR]
+I'm not sure who else to turn to[BR]
+for help besides you.[BR]
 [Wait][Next]
-Basically there's a nest of[BR]
-fuzzies in the freezer's duct![BR]
+They've got a nest stuck up in[BR]
+the freezer duct, and they get[BR]
+aggressive every time I try[BR]
+crossing the room!
 [Wait][End]
 }
 
 #string $String_Bartender_FirstTime2
 {
 [Style Right]
-And I have to move these boxes[BR]
-to the other end of the room but[BR]
-those fuzzies won't let me.[BR]
+I've got to get all these boxes[BR]
+moved to the other side of the[BR]
+room, but I get overrun every[BR]
+time I try![BR]
 [Wait][Next]
-Could you please stop them while[BR]
-I move all these boxes?
+I need you to hold them off[BR]
+while I move the boxes.
 [Wait][End]
 }
 
 #string $String_Bartender_Hi
 {
 [Style Right]
-So... will you help me?[BR]
-I promise you, I will pay you back.[BR]
+Can I trust you with this?[BR]
+You'll be rewarded, of course.
 [Yield][End]
 }
 
 #string $String_Bartender_Cancel
 {
 [Next]
-Oh I understand, you have other[BR]
-issues to attend first, don't[BR]
-worry, I'll wait here for you, but[BR]
-please don't take too much time.[BR]
+Oh, that's fine. I know you're[BR]
+a busy guy, what with everything[BR]
+happening right now.[BR]
 [Wait][Next]
-I don't want the problem to grow[BR]
-even more.
+Just don't forget about me, ok?[BR]
+I'm worried they'll start growing[BR]
+out of control soon...
 [Wait][End]
 }
 
 #string $String_Bartender_Instructions
 {
 [Style Right]
-This is what you need to do Mario,[BR]
-try to stop those fuzzies until I[BR]
-reach the other side of the[BR]
-warehouse, ok?
+All you need to do is beat back[BR]
+the fuzzies. Just give 'em a few[BR]
+whacks with that hammer of yours.
 [Wait][End]
 }
 
 #string $String_Bartender_ImReady
 {
 [Style Right]
-Okay, I think I'm ready, let's go,[BR]
-we can do it.
+Ahh... alright. Let's get this[BR]
+show on the road.
 [Wait][End]
 }
 
@@ -615,14 +618,17 @@ we can do it.
     RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-I have a lot of questions about how[BR]
-exactly those Fuzzies got to this[BR]
-place, but I think the biggest[BR]
-question I have is...[BR]
+This is the basement of Club 64![BR]
+Looks like they use it to store[BR]
+all kinds of things.[BR]
 [Wait][Next]
-Why is the warehouse bigger than[BR]
-Club64?
+Though, something feels weird[BR]
+about it...[BR]
+[Wait][Next]
+Why is it so much bigger than[BR]
+the actual club!?
 [Wait][End]
 }

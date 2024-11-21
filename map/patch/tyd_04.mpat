@@ -1887,11 +1887,14 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-Are we in...  Forever Forest?[BR]
-It seems so, anyway, we should[BR]
-get out of here fast, I can't[BR]
-stand the woods, Mario!
+Is this... Forever Forest? Or...[BR]
+somewhere different?[BR]
+[Wait][Next]
+This is freaking me out a little,[BR]
+Mario. Let's hurry up and get[BR]
+through here!
 [Wait][End]
 }

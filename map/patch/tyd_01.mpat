@@ -2611,12 +2611,12 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-What a beautiful flower field,[BR]
-I wonder where exactly are we?[BR]
+What a beautiful field of flowers![BR]
+I don't recognize any of them...[BR]
 [Wait][Next]
-Due to the type of flowers, it[BR]
-seems very far from our homes.
-[Wait][End]      
+Where do you think we are, Mario?
+[Wait][End]
 }

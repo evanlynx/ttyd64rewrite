@@ -2699,9 +2699,10 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
 Wow, Mt. Lavalava it's really[BR]
 huge!
-[Wait][End]      
+[Wait][End]
 }

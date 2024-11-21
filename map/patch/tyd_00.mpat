@@ -1103,7 +1103,8 @@ let this slide. Now take off!
 [EndChoice cancel=1][End]
 }
 
-#string $Tattle_Gus {
+#string $Tattle_Gus
+{
 [Style Tattle][EnableCDownNext]
 That's Gus. Look's like he is[BR]
 part of a band of thieves.[BR]
@@ -1116,13 +1117,11 @@ Don't judge books by covers!
 [Wait][End]
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-This place looks like a type of port[BR]
-in a third-class city, I wonder[BR]
-who would live here?[BR]
+This place... uh...[BR]
 [Wait][Next]
-Nothing like living surrounded by[BR]
-nature like my family, right Mario?
-[Wait][End]      
+What IS this place, Mario?
+[Wait][End]
 }

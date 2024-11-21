@@ -615,9 +615,10 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-We should try following that[BR]
-Fuzzy, Mario hurry!
-[Wait][End]      
+That Fuzzy seems awfully[BR]
+suspicious... Quick, after it!
+[Wait][End]
 }

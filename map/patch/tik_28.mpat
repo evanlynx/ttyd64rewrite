@@ -1070,13 +1070,14 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-It seems that all the water from[BR]
-the sewers is drained here.[BR]
+Seems almost like every sewer pipe[BR]
+in Toad Town ends up draining here![BR]
 [Wait][Next]
-We better use those springs if[BR]
-we don't want to get drowned in[BR]
-stinky water Mario!
-[Wait][End]      
+[Shake]Sniff[/fx]... [Shake]sniff[/fx]...[BR]
+[Wait][Next]
+Phew. Sure smells like it, anyways.
+[Wait][End]
 }

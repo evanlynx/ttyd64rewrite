@@ -693,157 +693,170 @@
 #string $String_ShopKeeper_Welcome
 {
 [Style Right]
-That item has a cost of [SaveColor][Color:19][Var 0][RestoreColor][BR]
-coins, would you be interested in[BR]
-buying it?[BR]
+That'll cost you [SaveColor][Color:19][Var 0][RestoreColor] coins.[BR]
+Interested?
 [Yield][End]
 }
 
 #string $String_ShopKeeper_NotEnoughMoney
 {
 [Next]
-It seems you don't have enough[BR]
-money, come back when you have a[BR]
-little more Mario.
+Sorry, that's not enough coins![BR]
+Come back again!
 [Wait][End]
 }
 
 #string $String_ShopKeeper_ThankYou
 {
 [Style Right]
-Thank you very much Mario,[BR]
-have a nice day!
+Well, thank you very much![BR]
+Come back soon!
 [Wait][End]
 }
 
 #string $String_Shopkeeper1_Hi
 {
 [Style Right]
-Hey Mario, I have a bit of[BR]
-everything, don't forget to[BR]
-check when you can.
+Hey, Mario! Welcome! I've got a[BR]
+little bit of everything. Check[BR]
+back often, ok?
 [Wait][End]
 }
 
 #string $String_Shopkeeper2_Hi
 {
 [Style Right]
-Hi Mario, me and my son are[BR]
-selling some stuff to get a[BR]
-little extra money, don't forget[BR]
-to buy something.
+I'm teaching my boy the[BR]
+merchant's trade. We're hoping[BR]
+to make a little extra money.[BR]
+[Wait][Next]
+It sure would help if you'd[BR]
+chip in!
 [Wait][End]
 }
 
 #string $String_Shopkeeper3_Hi
 {
 [Style Right]
-Hello Mario, thanks for[BR]
-visiting us.
+Mario! Thanks for visiting us!
 [Wait][End]
 }
 
 #string $String_DarkToad1_Hi
 {
 [Style Right]
-Hey, can't you see I'm busy?!
+...[BR]
+[Wait][Next]
+...[BR]
+[Wait][Next]
+Hey! Can't you see I'm busy!?
 [Wait][End]
 }
 
 #string $String_ToadTalking1
 {
 [Style Right]
-Hey, have you already watched[BR]
-the new episode of Super Captain[BR]
-Toad?[BR]
-[Wait][Next]
-I heard it was like movie!
+Did you watch the new episode[BR]
+of Super Captain Toad?[BR]
+It was awesome!
 [Wait][End]
 }
 
 #string $String_ToadTalking2
 {
 [Style Right]
-The last thing I watched was[BR]
-the chapter when he gets the[BR]
-pickaxe for the first time,[BR]
-it was really good.
+Don't spoil anything! I'm still[BR]
+at the part where he gets his[BR]
+pickaxe for the first time!
 [Wait][End]
 }
 
 #string $String_Toad1
 {
 [Style Right]
-I love the weather of the day,[BR]
-do you too Mario?
+Nice weather today, huh?[BR]
+[Wait][Next]
+... Yeah, that's all I've got.[BR]
+Sorry.
 [Wait][End]
 }
 
 #string $String_Toad2
 {
 [Style Right]
-Sales have been quite calm this[BR]
-last week, I hope the situation[BR]
-improves.
+Sales have been slow lately.[BR]
+Ever since the Princess was[BR]
+captured, people just aren't[BR]
+shopping as much anymore.[BR]
+[Wait][Next]
+I can't blame them, but I still[BR]
+have to put food on the table!
 [Wait][End]
 }
 
 #string $String_ToadKid1
 {
 [Style Right]
-Hello Mario, hey don't forget to[BR]
-buy us something!
+Mario! Don't forget to buy, um...[BR]
+buy us from something...?[BR]
+[Wait][Next]
+Um... oh! Buy something from us!
 [Wait][End]
 }
 
 #string $String_ToadKid2
 {
 [Style Right]
-It's been pretty quiet today,[BR]
-I hope something funny happens[BR]
-soon...
+It's been pretty boring lately.[BR]
+I want to see another castle fly!
 [Wait][End]
 }
 
 #string $String_ToadKid3
 {
 [Style Right]
-I can't wait for my mom to finish[BR]
-cooking today's dinner, I'm[BR]
-starving!
+Mom's making one of Tayce T.'s[BR]
+recipes for dinner tonight![BR]
+I can't wait to get home!
 [Wait][End]
 }
 
 #string $String_ToadKid4
 {
 [Style Right]
-Hi Mario, hey, don't you need a[BR]
-new adventure partner?[BR]
-I'm dying for some fun!
+Oh, oh, Mario! Are you on an[BR]
+adventure? Can I come too?[BR]
+[Wait][Next]
+I'd be a great adventuring[BR]
+partner, I promise!
 [Wait][End]
 }
 
 #string $String_ToadKid5
 {
 [Style Right]
-Hello Mario, me and my brother[BR]
-are waiting for our father to[BR]
-come home from work.[BR]
+Hi, mister! Do you know how to[BR]
+get past world six in the new[BR]
+Super Jr. Koopa Bros.?[BR]
 [Wait][Next]
-He just bough us the new sequel[BR]
-of our favorite game Super Jr.[BR]
-Koopa Bros, we can't wait!
+Me and my brother keep running[BR]
+through the castle over and over,[BR]
+but it keeps going forever![BR]
+[Wait][Next]
+He thinks maybe there's a[BR]
+secret code or something!
 [Wait][End]
 }
 
 #string $String_ToadKid6
 {
 [Style Right]
-Hey Mario, have you played the[BR]
-Super Jr. Koopa Bros game yet?[BR]
+Have you tried the new Super[BR]
+Jr. Koopa Bros.? I think it's the[BR]
+best one so far![BR]
 [Wait][Next]
-It's very good, you should check[BR]
-it out.
+It's kind of hard, though.[BR]
+We're completely stuck.
 [Wait][End]
 }
 
@@ -852,35 +865,40 @@ it out.
 #string $Tattle_DarkToad
 {
 [Style Tattle][EnableCDownNext]
-Hmm this toad looks very[BR]
-suspicious, I don't know Mario.
+Does this Toad look a little off[BR]
+to you, Mario?[BR]
+[Wait][Next]
+Maybe we'd better leave him alone.
 [Wait][End]
 }
 
 #string $Tattle_Toad
 {
 [Style Tattle][EnableCDownNext]
-A citizen of Toad Town, very nice[BR]
-city, but I don't know, I prefer[BR]
-Goomba Village way more.
+This Toad is spending the day[BR]
+at the market! I wonder if[BR]
+they know any good deals.
 [Wait][End]
 }
 
 #string $Tattle_ToadKid
 {
 [Style Tattle][EnableCDownNext]
-A kid from Toad Town, wow, there[BR]
-are a lot of children in this town,[BR]
-I wish it was the same in Goomba[BR]
-Village.
+That Toad kid seems to be having[BR]
+a good time. There's a lot of kids[BR]
+around Toad Town, huh?[BR]
+[Wait][Next]
+Sometimes I wish Goomba Village[BR]
+had more kids my age.
 [Wait][End]
 }
 
 #string $Tattle_Shopkeeper
 {
 [Style Tattle][EnableCDownNext]
-A local seller, always remember[BR]
-to help local businesses Mario.
+That Toad's set up shop in the[BR]
+marketplace. We should see what's[BR]
+on sale!
 [Wait][End]
 }
 
@@ -891,11 +909,12 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
 This area is full of local vendors,[BR]
 we should see what they sell,[BR]
 maybe  there are interesting[BR]
 things Mario.
-[Wait][End]      
+[Wait][End]
 }

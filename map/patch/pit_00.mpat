@@ -135,9 +135,9 @@
 {
 [DelayOff][Style Sign]
 [CenterX 255]
-[Down 3][SaveColor][Color:19]DANGER!!! DO NOT ENTER![RestoreColor][BR]
-The pipe is the entrance to[BR]
-the Pit of 100 Trials!
+[Down 3][SaveColor][Color:19]       [CROSS] WARNING [CROSS][RestoreColor][BR]
+Enter the Pit of 100 Trials[BR]
+    at your own peril!!
 [DelayOn]
 [Wait][End]
 }
@@ -763,14 +763,13 @@ the Pit of 100 Trials!
     RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle]
-This is the entrance to the pit[BR]
-of 100 trials, inside that pipe[BR]
-there is a very deep place full[BR]
-of enemies.[BR]
+This place gives me the creeps![BR]
+I wonder where that pipe leads...[BR]
 [Wait][Next]
-We should enter only when you're[BR]
-sure we're ready for this huge[BR]
-challenge Mario!
+Let's be extra careful![BR]
+We shouldn't charge in unless you're[BR]
+sure you're ready for a [SaveColor][Color:20]long fight[RestoreColor]!
 }

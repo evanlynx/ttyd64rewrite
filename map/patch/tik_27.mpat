@@ -626,11 +626,12 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-It seems that we have to press[BR]
-those buttons in a specific order,[BR]
-I wonder which one is the correct[BR]
-one?
-[Wait][End]      
+Check out all these buttons![BR]
+I bet we have to press them all[BR]
+in a certain order.[BR]
+Just a hunch!
+[Wait][End]
 }

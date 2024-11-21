@@ -125,11 +125,16 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle]
-A hidden path inside the chimney?[br]
-Ew, there's a lot of dust around here,[br]
-I hope there is at least something[br]
-worthwhile...[br]
+Uhh... Mario, are you sure we needed[BR]
+to come down the chimney? It's...[BR]
+sorta dusty, and... ah...[BR]
+[Shake]Ah[/fx]...![BR]
+[Wait][Next]
+... [Shake]Achoo![/fx][BR]
+[Wait][Next]
+... Sorry.
 [Wait][End]
 }

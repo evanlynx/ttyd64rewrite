@@ -1333,99 +1333,110 @@ FFFFFFFF FFFFFFFF FFFFFFFF
     RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-This is the intermediate floor of[BR]
-the pit, sometimes Rowf can appear[BR]
-here to sell us items.[BR]
+Wow, this is the Pit of 100 Trials![BR]
+I didn't think it really existed![BR]
 [Wait][Next]
-Also we can use the tube on the left[BR]
-to go back to the entrance of the[BR]
-pit[BR]
+There's all sorts of scary stories[BR]
+about this place, but there's also[BR]
+supposed to be amazing treasures![BR]
 [Wait][Next]
-Just keep in mind that we will have[BR]
-to go through all the floors once[BR]
-again.
+Keep an eye out for Rowf! He might[BR]
+show up to give us some support,[BR]
+at a price.[BR]
+[Wait][Next]
+If it gets to be too much, just head[BR]
+through the far pipe and we'll go[BR]
+back to the top. If we come back,[BR]
+we'll have to start all over...
 [Wait][End]
 }
 
 %
 
-#string $String_Rowf_Hi {
+#string $String_Rowf_Hi
+{
 [Style Right]
-Hey what's up buddy![BR]
-are you also looking for[BR]
-some treasures around here?[BR]
+Hey, what do you know?[BR]
+It's Mario! Small world, huh?[BR]
+Are you down here looking for[BR]
+treasure, too?[BR]
 [Wait][Next]
-By the way, I have a few things[BR]
-in my backpack that you might be[BR]
-interested, do you want to take[BR]
-a look at them?[BR]
+If you're interested, I've[BR]
+already found a few choice items.[BR]
+Want to buy something?
 [Yield][End]
 }
 
-#string $String_Rowf_Bye {
+#string $String_Rowf_Bye
+{
 [Style Right]
-Understood, remember that[BR]
-there are many dangers below,[BR]
-the best of luck buddy!
+Keep your head on straight,[BR]
+buddy! You never know what will[BR]
+come at you next in this place.
 [Wait][End]
 }
 
-#string $String_Rowf_NoCoins {
+#string $String_Rowf_NoCoins
+{
 [Style Right]
-Sorry... bud, it seems you don't[BR]
-have enough coins and I have a[BR]
-family to feed, you know what I[BR]
-mean?
+Sorry, buddy, but I can't give[BR]
+handouts. Not even here![BR]
+Family to feed, you know?
 [Wait][End]
 }
 
-#string $String_Rowf_RelookInventory {
+#string $String_Rowf_RelookInventory
+{
 [Next]
-Oh, aren't you completely sure?[BR]
-there is no problem bud.
+No problem, buddy. Take all[BR]
+the time you need.
 [Wait][End]
 }
 
-#string $String_Rowf_NoInventory {
+#string $String_Rowf_NoInventory
+{
 [Next]
-Wait a little bit buddy, I'm sorry[BR]
-but it seems that you don't have[BR]
-more space in your pockets.
+Hold on there, big guy! You[BR]
+don't have enough space to hold[BR]
+this! Try making some room,[BR]
+then come see me again!
 [Wait][End]
 }
 
-#string $String_Rowf_AskConfirmation {
+#string $String_Rowf_AskConfirmation
+{
 [Style Right]
-That's my man, right there![BR]
-You've got an eye for quality![BR]
+Sharp eye, Mario! That's[BR]
+a quality item right there.[BR]
 [Wait][Next]
-That [SaveColor][Color:20][Var 0][RestoreColor] has a price[BR]
-of [SaveColor][Color:20][Var 1][RestoreColor] coins![BR][BR]
-Do you wanna buy it?[BR]
+One [SaveColor][Color:20][Var 0][RestoreColor]'s gonna run you [BR]
+[SaveColor][Color:20][Var 1][RestoreColor] coins![BR][BR]
+Do we have a deal?[BR]
 [Yield][End]
 }
 
-#string $String_Rowf_ThankYou {
+#string $String_Rowf_ThankYou
+{
 [Style Right]
-Thank you very much, the best[BR]
-of luck out there buddy!
+Thanks for the sale, Mario![BR]
+Good luck out there!
 [Wait][End]
 }
 
-#string $Tattle_Rowf {
+#string $Tattle_Rowf
+{
 [Style Tattle][EnableCDownNext]
-He is Rowf, we can buy a few items[BR]
-for some coins, just keep in mind[BR]
-that prices increase depending on[BR]
-how deep we are in the pit.[BR]
+That's Rowf. He sells Badges.[BR]
+He travels all over the world,[BR]
+buying and selling things.[BR]
 [Wait][Next]
-By the way, did he come from[BR]
-Toad Town to here? Wow, I didn't[BR]
-know he was that strong[BR]
+He must be pretty tough to[BR]
+set up shop in a place like this![BR]
 [Wait][Next]
-Mario, maybe he could help us defeat[BR]
-Bowser!
+I guess that's the life of a[BR]
+salesman, eh?
 [Wait][End]
 }

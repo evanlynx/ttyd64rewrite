@@ -429,23 +429,22 @@
 #string $String_ShyGuy_1
 {
 [Style Right]
-You know what? I'm bored![BR]
-What if you play a little bit[BR]
-with me?[BR]
+Hey, hi, hello! I've got a game[BR]
+for you to play![BR]
 [Wait][Next]
-And then I can think if I give[BR]
-you this or not.
+There's something good in it for[BR]
+you if you win! What do you say?
 [Wait][End]
 }
 
 #string $String_ShyGuy_2
 {
 [Style Right]
-You know what?[BR]
+Well... [Wave]that's that[/fx]! [NOTE][NOTE][NOTE][BR]
 [Wait][Next]
-If you want it that much, you[BR]
-can keep it, I didn't even want[BR]
-it anyways...
+Oh hey, you can keep this![BR]
+I didn't like it that much,[BR]
+anyway.
 [Wait][End]
 }
 
@@ -458,10 +457,11 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-Mario it's time to see if your memory[BR]
-is as good as you think, we need to[BR]
-beat that Shy Guy!
-[Wait][End]      
+Looks like that Shy Guy has some[BR]
+kind of challenge for you, Mario.[BR]
+I'm not sure I trust him, myself...
+[Wait][End]
 }

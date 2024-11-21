@@ -2423,11 +2423,14 @@ JR        RA
 RESERVED
 }
 
-#string $String_Tattle {
+#string $String_Tattle
+{
 [Style Tattle][EnableCDownNext]
-This place seems quite abandoned,[BR]
-it seems that it has very[BR]
-expensive machinery, who would[BR]
-leave a place this?
-[Wait][End]      
+This place looks completely[BR]
+abandonded. What do you think[BR]
+all those machines were for?[BR]
+[Wait][Next]
+Who would leave all that crazy[BR]
+stuff laying around like this?[BR]
+[Wait][End]
 }
