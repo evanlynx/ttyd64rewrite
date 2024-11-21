@@ -501,8 +501,9 @@
 #string $String_BobOmb_1
 {
 [Style Right]
-Hey Mario do you want to play[BR]
-a game with us?[BR]
+Hey, me and my buddies came up[BR]
+with a brand new game![BR]
+Want to try it out?
 [Yield][End]
 }
 
