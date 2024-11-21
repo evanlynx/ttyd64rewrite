@@ -166,8 +166,8 @@
 	<Song id="A1" BGM="bgm/TTYD_mini_boss_theme.bgm"/> <!-- TTYD_SpecialBattle -->
 	<Song id="A2" BGM="bgm/TTYD_BattleWon.bgm"/> <!-- TTYD_BattleEnd -->
 	<Song id="A3" BGM="bgm/TTYD_level_up_theme.bgm"/> <!-- TTYD_LevelUp -->
-	<Song id="A4" BGM="bgm/TTYD_menu_theme_start.bgm"/> <!-- TTYD_MainTheme -->
-	<Song id="A5" BGM="bgm/TTYD_menu_theme_main.bgm"/> <!-- TTYD_FileSelect -->
+	<Song id="A4" BGM="bgm/81_318.bgm"/> <!-- Original Menu Theme -->
+	<Song id="A5" BGM="bgm/80_319.bgm"/> <!-- Original File Select -->
 	<Song id="A6" BGM="bgm/TTYD_Rougueport.bgm"/>
 	<Song id="A7" BGM="bgm/TTYD_petal_medows.bgm"/>
 	<Song id="A8" BGM="bgm/TTYD_Boggly_Woods_remix.bgm"/>
