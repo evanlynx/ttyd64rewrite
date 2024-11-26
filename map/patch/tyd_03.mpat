@@ -218,7 +218,7 @@ a special condition! If you do it,[BR]
 you go to the next round.[BR]
 [Wait][Next]
 Sound easy? How about you give[BR]
-it your best shot?
+it your best shot?[BR]
 [Yield][End]
 }
 
@@ -230,7 +230,7 @@ That was a great fight![BR]
 [Wait][Next]
 If you ever want a rematch,[BR]
 just say the word![BR]
-We'll be ready for you!
+We'll be ready for you![BR]
 [Wait][End]
 }
 
@@ -249,7 +249,7 @@ Go on, take it![BR]
 {
 [Next]
 You've got no idea what you're[BR]
-in for. This is gonna be fun!
+in for. This is gonna be fun![BR]
 [Wait][End]
 }
 
@@ -258,7 +258,7 @@ in for. This is gonna be fun!
 [Next]
 Alright, no shame in knowing your[BR]
 limits. If you ever feel bold,[BR]
-you know where to find us!
+you know where to find us![BR]
 [Wait][End]
 }
 
@@ -267,7 +267,7 @@ you know where to find us!
 [Style Right]
 Hey, not bad! We're not through[BR]
 with you yet, though. Time for the[BR]
-next round!
+next round![BR]
 [Wait][End]
 }
 
@@ -278,7 +278,7 @@ Well, this is it. You made it all[BR]
 the way to the final round.[BR]
 [Wait][Next]
 Good luck, guy! You're gonna[BR]
-need it.
+need it.[BR]
 [Wait][End]
 }
 
